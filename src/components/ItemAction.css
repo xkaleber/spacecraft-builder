@@ -1,0 +1,16 @@
+.item-action {
+  margin-top: 10px;
+}
+
+.delete-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: transparent;
+  color: red;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+} 
+.delete-button:hover {
+  background-color: black;
+}

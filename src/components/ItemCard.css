@@ -1,0 +1,15 @@
+.title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.details {
+  margin-top: 10px;
+}
+.quantity {
+  display: block;
+  margin-bottom: 5px;
+}
+.purpose {
+  font-style: italic;
+  color: silver;
+} 
